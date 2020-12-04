@@ -1,0 +1,213 @@
+[
+  {
+    "streetName": "东盛街道",
+    "arratCom": [
+      {
+        "comName": "双安社区",
+        "arratCom": "二道区吉盛小区2-16栋与2-19栋之间  、临河三条原和顺派出所"
+      },
+      {
+        "comName": "亚泰社区",
+        "arratCom": "民丰街661号"
+      },
+      {
+        "comName": "鑫旺社区",
+        "arratCom": "二道区公平路与临河五条交汇处"
+      },
+      {
+        "comName": "光荣社区",
+        "arratCom": "荣光路与民丰街交汇力旺东玺台小区10栋；和顺街766号"
+      },
+      {
+        "comName": "公平社区",
+        "arratCom": "公平路与和顺三条交汇烟厂宿舍1栋旁"
+      },
+      {
+        "comName": "万通社区",
+        "arratCom": "二道区万通花园A区28栋西侧"
+      }
+    ]
+  },
+  {
+    "streetName": "东站街道",
+    "arratCom": [
+      {
+        "comName": "十委社区",
+        "arratCom": "长春市二道区东新路与西绿安街交汇南行50米"
+      },
+      {
+        "comName": "绿安社区",
+        "arratCom": "长春市二道区东新路与西绿安街交汇南行50米"
+      },
+      {
+        "comName": "吉柴社区",
+        "arratCom": "二道区东站街吉柴宿舍51栋53栋中间"
+      },
+      {
+        "comName": "东新社区",
+        "arratCom": "二道区蔚蓝国际小区29栋"
+      },
+      {
+        "comName": "滨河社区",
+        "arratCom": "东新路与四通路交汇滨河小区一区106栋旁滨河社区"
+      },
+      {
+        "comName": "紫盈社区",
+        "arratCom": "长电紫盈花城1期36栋"
+      },
+      {
+        "comName": "蓝山社区",
+        "arratCom": "东盛大街666号万科蓝山小区四期AR5栋"
+      }
+    ]
+  },
+  {
+    "streetName": "荣光街道",
+    "arratCom": [
+      {
+        "comName": "丰泰社区",
+        "arratCom": "二道区樱花苑40栋"
+      },
+      {
+        "comName": "民丰社区",
+        "arratCom": "二道区郁金花园17栋1门102室"
+      },
+      {
+        "comName": "宏盛社区",
+        "arratCom": "长春市二道区乐群街2672号"
+      },
+      {
+        "comName": "吉通社区",
+        "arratCom": "乐群街与经纬路交汇1459A"
+      },
+      {
+        "comName": "福安社区",
+        "arratCom": "安乐路1786号"
+      },
+      {
+        "comName": "四通社区",
+        "arratCom": "二道区四通路御景名都A区9栋101室"
+      },
+      {
+        "comName": "兴隆社区",
+        "arratCom": "长春市二道区福安街2811号"
+      },
+      {
+        "comName": "岭东社区",
+        "arratCom": "公平路与民丰三条交汇北100米"
+      },
+      {
+        "comName": "长拖社区",
+        "arratCom": "荣乐家园2期"
+      },
+      {
+        "comName": "吉星社区",
+        "arratCom": "长春市二道区四通路与福安街交汇处"
+      },
+      {
+        "comName": "同兴社区",
+        "arratCom": "吉林大路与乐群街交汇吉森春城小区10栋3单元105室"
+      }
+    ]
+  },
+  {
+    "streetName": "八里堡街道",
+    "arratCom": [
+      {
+        "comName": "东梅社区",
+        "arratCom": "远达大街和裕民路交汇"
+      },
+      {
+        "comName": "东荣社区",
+        "arratCom": "安宁路988号"
+      },
+      {
+        "comName": "太有社区",
+        "arratCom": "八里堡新乡路与天石街交汇葡萄牙小镇17栋"
+      },
+      {
+        "comName": "英俊社区",
+        "arratCom": "二道区远达大街85号"
+      },
+      {
+        "comName": "同康社区",
+        "arratCom": "同康路太和东街交汇"
+      },
+      {
+        "comName": "泰和社区",
+        "arratCom": "二道区八里堡广德街富民小区11号楼一楼"
+      },
+      {
+        "comName": "东顺社区",
+        "arratCom": "远达大街蓝色港湾9-12号"
+      },
+      {
+        "comName": "康桥社区",
+        "arratCom": "二道区金钱路555号"
+      },
+      {
+        "comName": "银竹社区",
+        "arratCom": "力旺康城2期22号商铺"
+      }
+    ]
+  },
+  {
+    "streetName": "吉林街道",
+    "arratCom": [
+      {
+        "comName": "沿河社区",
+        "arratCom": "长春市二道区滨河小区626栋沿河社区"
+      },
+      {
+        "comName": "安乐社区",
+        "arratCom": "长春市二道区安乐路吉盛花园小区2-42-1栋安乐社区"
+      },
+      {
+        "comName": "丹阳社区",
+        "arratCom": "长春市二道区吉林大路武夷嘉园19栋 丹阳社区"
+      },
+      {
+        "comName": "万科社区",
+        "arratCom": "长春市二道区吉林街道临河街临河家园三栋门市万科社区"
+      },
+      {
+        "comName": "热电社区",
+        "arratCom": "二道区临河街与岭东路交汇热电一区院内热电社区党支部"
+      }
+    ]
+  },
+  {
+    "streetName": "长青街道",
+    "arratCom": [
+      {
+        "comName": "金橄榄社区",
+        "arratCom": "金色橄榄城7栋"
+      },
+      {
+        "comName": "城建社区",
+        "arratCom": "城建世纪家园7栋"
+      },
+      {
+        "comName": "凯利社区",
+        "arratCom": "民乐小区1栋/凯利花园小区6栋101"
+      }
+    ]
+  },
+  {
+    "streetName": "远达街道",
+    "arratCom": [
+      {
+        "comName": "新苑社区",
+        "arratCom": "天富御苑小区21栋"
+      },
+      {
+        "comName": "新开社区",
+        "arratCom": "新开大街227号"
+      },
+      {
+        "comName": "新泽社区",
+        "arratCom": "长春市二道区金钱路昊泽小区"
+      }
+    ]
+  }
+]

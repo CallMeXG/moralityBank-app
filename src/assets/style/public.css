@@ -1,0 +1,81 @@
+.positionClass{
+  width: 100%;
+  height: 100%;
+  /*position: fixed;*/
+  background: #f7f7f7;
+  /*background: white;*/
+}
+
+.headerBackgroundColor{
+  background: linear-gradient(#67ccf5, #3caaf2);
+}
+
+.input-class{
+  margin: 0 10px;
+  height: 50px;
+  border-bottom: 1px solid #cdcdcd;
+}
+
+/**
+  * 0:待审核:创建需求后,需管理员进行审核,审核结束后,其他志愿者可选中领取
+  * 1:未通过:审核被拒绝,补充需求重新审核
+  * 2:待领取:管理员审核需求通过后,所有志愿者可见当前状态需求
+  * 3:待确认:志愿者选择服务需求后,与被服务人员进行沟通确认,确认失败后恢复为待领取状态
+  * 4.待进行:协调成功后进入进行中状态,当前任务属于协调成功的志愿者
+  * 5:进行中:志愿者开始服务
+  * 6:待结算:服务完成后志愿者选择完成提交审核
+  * 7:驳  回:审核未通过志愿者重新补充需求
+  * 8:已结算:审核通过后给所属志愿者进行积分累加
+  * 9:已取消:用户取消当前需求
+  */
+
+.color-status-0{
+  background: #72a6b2;
+  width: 50px;
+  height: 20px;
+}
+.color-status-1{
+  background: #e54d52;
+  width: 55px;
+  height: 20px;
+}
+.color-status-2{
+  background: #2c6eb2;
+  width: 60px;
+  height: 20px;
+}
+.color-status-3{
+  background: #a583b2;
+  width: 65px;
+  height: 20px;
+}
+.color-status-4{
+  background: #3cb28c;
+  width: 70px;
+  height: 20px;
+}
+.color-status-5{
+  background: #81dd4b;
+  width: 75px;
+  height: 20px;
+}
+.color-status-6{
+  background: #b29515;
+  width: 80px;
+  height: 20px;
+}
+.color-status-7{
+  background: #b25f0c;
+  width: 85px;
+  height: 20px;
+}
+.color-status-8{
+  background: #0bb20c;
+  width: 90px;
+  height: 20px;
+}
+.color-status-9{
+  background: #b2417f;
+  width: 95px;
+  height: 20px;
+}
